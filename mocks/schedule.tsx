@@ -1,0 +1,38 @@
+export const navSchedule = [
+    {
+        id: "0",
+        title: "Unity UI Kit",
+        details: "UI Design",
+        day: "Mon",
+        number: 20,
+        time: "10:00",
+        color: "#FFEBF6",
+    },
+    {
+        id: "1",
+        title: "Bento 3D",
+        details: "UI Design",
+        day: "Tue",
+        number: 21,
+        time: "11:30",
+        color: "#CFC8FF",
+    },
+    {
+        id: "2",
+        title: "Unity UI Kit",
+        details: "UI Design",
+        day: "Wed",
+        number: 22,
+        time: "12:00",
+        color: "#CDF4FF",
+    },
+    {
+        id: "3",
+        title: "Unity UI Kit",
+        details: "UI Design",
+        day: "Thu",
+        number: 23,
+        time: "14:30",
+        color: "#FFE2AC",
+    },
+];
